@@ -1,0 +1,9 @@
+touch .gitignore
+git config --global user.name Arghya
+git config --global user.email naskararghya620@gmail.com
+git init
+git add.
+git commit -m "Initial commit"
+git status  # for ceck only
+git remote add origin <ssh url.git>
+git push origin master
